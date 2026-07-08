@@ -13,3 +13,4 @@
 - [13] add smoke script
 - [14] guard empty input
 - [15] normalize paths
+- [16] add metrics counter
