@@ -11,3 +11,4 @@
 - [11] pin node 22
 - [12] dedupe workflow steps
 - [13] add smoke script
+- [14] guard empty input
