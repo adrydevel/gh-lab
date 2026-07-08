@@ -9,3 +9,4 @@
 - [9] add health probe
 - [10] split lint step
 - [11] pin node 22
+- [12] dedupe workflow steps
