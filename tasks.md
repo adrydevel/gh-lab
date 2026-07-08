@@ -3,3 +3,4 @@
 - [3] tune retry backoff
 - [4] cache npm across jobs
 - [5] fix flaky timeout
+- [6] bump action versions
