@@ -7,3 +7,4 @@
 - [7] log rotation stub
 - [8] harden env parsing
 - [9] add health probe
+- [10] split lint step
