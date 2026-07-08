@@ -12,3 +12,4 @@
 - [12] dedupe workflow steps
 - [13] add smoke script
 - [14] guard empty input
+- [15] normalize paths
