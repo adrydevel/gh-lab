@@ -1,3 +1,4 @@
 - [1] 
 - [2] add ci matrix note
 - [3] tune retry backoff
+- [4] cache npm across jobs
