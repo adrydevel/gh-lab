@@ -1,2 +1,3 @@
 - [1] 
 - [2] add ci matrix note
+- [3] tune retry backoff
