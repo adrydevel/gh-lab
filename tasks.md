@@ -6,3 +6,4 @@
 - [6] bump action versions
 - [7] log rotation stub
 - [8] harden env parsing
+- [9] add health probe
