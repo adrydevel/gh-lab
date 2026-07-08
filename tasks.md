@@ -5,3 +5,4 @@
 - [5] fix flaky timeout
 - [6] bump action versions
 - [7] log rotation stub
+- [8] harden env parsing
